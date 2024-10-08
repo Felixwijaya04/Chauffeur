@@ -12,6 +12,6 @@ I use lumen lighting system and nanite technologies to build the game environmen
 In Unreal Engine, you can create roads using landscape splines by navigating to Landscape mode (shortcut: SHIFT + 2) > Manage > Splines.<br>
 ![image](https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Screenshot%202024-10-08%20120809.png)
 <br>Meanwhile, to create borders using spline, we will need an additional spline tool that can be downloaded here for free: [Download Tool](https://tiedtke.gumroad.com/l/splinetools). After importing, you can open the folder and navigate to Spline_Tools folder and drag the type of spline you need and change the mesh slot in the details menu.
-- **Vehicle Assets** <br> 
+- **Vehicle Assets** <br> The current vehicle assets i was using is downloaded from [Sketchfab](https://sketchfab.com/feed). For this game, i search for high poly assets with poly range between 200k to 700k and no modifier applied so i can group each objects easier. Then, i use blender to group each objects into 5 parts (Body, FL Wheel, FR Wheel, RL Wheel, RR Wheel) after that i use UE Vehicle Rigging Addon to automatically rig the vehicle inside blender. You can download it here for free: [UE Blender Vehicle Rigging Addon](https://continuebreak.gumroad.com/l/uYsaQ)
 
 
