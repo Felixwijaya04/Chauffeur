@@ -6,6 +6,10 @@ I use lumen lighting system and nanite technologies to build the game environmen
 <br>
 
 ## 🔥Development Process
-- **Environment** <br>The game environment is made by the newest features from Unreal Engine 5 such as lumen and nanite technologies.<br>Lumen is a dynamic global illumination system that can calculate light reflections instantaneously, check more here: [Lumen](https://dev.epicgames.com/documentation/en-us/unreal-engine/lumen-global-illumination-and-reflections-in-unreal-engine)
+- **Environment** <br>The game environment is made by the newest features from Unreal Engine 5 such as lumen and nanite technologies.<br>Lumen is a dynamic global illumination system that can calculate light reflections instantaneously, check more about Lumen here: [Lumen](https://dev.epicgames.com/documentation/en-us/unreal-engine/lumen-global-illumination-and-reflections-in-unreal-engine) <br> Nanite is UE virtualized geometry system, capable of rendering high poly counts objects. Check more about Nanite here: [Nanite](https://dev.epicgames.com/documentation/en-us/unreal-engine/nanite-virtualized-geometry-in-unreal-engine)
+- **Splines** <br> Spline is very useful for creating repetitive objects, i mostly use spline to create roads and borders such as walls and road railing. In the game, I use different spline tools to create roads as part of the game’s landscape/terrain, while borders are integrated as static objects. 
 ![image](https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Screenshot%20(538).png)
+In Unreal Engine, you can create roads using landscape splines by navigating to Landscape mode (shortcut: SHIFT + 2) > Manage > Splines.<br>
+![image](https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Screenshot%202024-10-08%20120809.png)
+
 
